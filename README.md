@@ -332,7 +332,8 @@ Menampilkan ID alat musik beserta jumlah stok yang tersedia.
 
 Screenshot menampilkan menu utama aplikasi Sistem Manajemen Alat Musik yang berisi pilihan untuk mengelola alat musik dan stok.
 
-![Menu Utama](screenshot/menu-utama.png)
+<img width="417" height="332" alt="image" src="https://github.com/user-attachments/assets/32e0dc4c-aa5a-482d-a621-a5d4a749cacf" />
+
 
 ---
 
@@ -340,7 +341,8 @@ Screenshot menampilkan menu utama aplikasi Sistem Manajemen Alat Musik yang beri
 
 Screenshot menampilkan data alat musik yang telah tersimpan, termasuk informasi jenis, merek, harga, dan atribut khusus dari masing-masing alat musik.
 
-![Daftar Alat Musik](screenshot/daftar-alat-musik.png)
+<img width="427" height="506" alt="image" src="https://github.com/user-attachments/assets/499a35d5-a683-4f98-ac6c-5b4abb6e5499" />
+
 
 ---
 
@@ -348,7 +350,8 @@ Screenshot menampilkan data alat musik yang telah tersimpan, termasuk informasi 
 
 Screenshot menunjukkan proses penambahan data alat musik baru. Pengguna dapat menentukan jenis alat musik dan mengisi data sesuai dengan jenis yang dipilih.
 
-![Tambah Alat Musik](screenshot/tambah-alat-musik.png)
+<img width="303" height="197" alt="image" src="https://github.com/user-attachments/assets/9d801a85-29ec-420a-a707-146942176a27" />
+
 
 ---
 
@@ -356,7 +359,12 @@ Screenshot menunjukkan proses penambahan data alat musik baru. Pengguna dapat me
 
 Screenshot menunjukkan proses perubahan dan penghapusan data alat musik berdasarkan ID yang dimasukkan pengguna.
 
-![Update dan Hapus](screenshot/update-hapus.png)
+<img width="224" height="114" alt="image" src="https://github.com/user-attachments/assets/3a615eb0-8d52-4b22-a409-1e7d556cde80" />
+
+<img width="243" height="116" alt="image" src="https://github.com/user-attachments/assets/040cd7bf-c5d4-4c3b-a006-5082af40537a" />
+
+<img width="232" height="107" alt="image" src="https://github.com/user-attachments/assets/3ffb9d4a-d8e5-439f-a60a-c81ca66980b4" />
+
 
 ---
 
@@ -364,7 +372,11 @@ Screenshot menunjukkan proses perubahan dan penghapusan data alat musik berdasar
 
 Screenshot menunjukkan proses penambahan, pengurangan, dan penampilan stok alat musik.
 
-![Pengelolaan Stok](screenshot/stok.png)
+<img width="172" height="42" alt="image" src="https://github.com/user-attachments/assets/3c701f99-c0fd-48b6-a09e-d259b9f2ea86" />
+
+<img width="230" height="78" alt="image" src="https://github.com/user-attachments/assets/a879c8fb-ace9-460b-ad42-441432dcb214" />
+
+<img width="209" height="50" alt="image" src="https://github.com/user-attachments/assets/7eae1d3e-c4a6-4494-b848-f1ac7bfdd9b6" />
 
 ---
 
