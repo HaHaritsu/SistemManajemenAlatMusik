@@ -1,6 +1,6 @@
 # Pemrograman Berorientasi Objek
 
-## Sistem Manajemen Alat Musik (CLI)
+## Sistem Manajemen Alat Musik
 
 ---
 
@@ -50,7 +50,7 @@ Aplikasi memiliki beberapa fungsi utama, yaitu:
 
 ---
 
-## Diagram Kelas & Hierarki Class
+## Diagram Class & Hierarki Class
 
 Program ini menggunakan **satu rantai pewarisan (Inheritance)** pada bagian pengelompokan alat musik.
 
